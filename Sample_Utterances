@@ -1,0 +1,28 @@
+GetFlight My origin city is {Source} and the destination is {Destination}
+GetFlight My source is {Source} and the destination is {Destination}
+GetFlight I am travelling from {Source} to {Destination}
+GetFlight I want to travel from {Source} to {Destination}
+GetFlight I will be travelling between {Source} and {Destination}
+GetFlight I may travel from {Source} to {Destination}
+GetFlight I shall travel from {Source} to {Destination}
+GetFlight I would be travelling from {Source} to {Destination}
+
+TravelIntentType I want to travel {TravelType}
+TravelIntentType {TravelType} please
+TravelIntentType My travel type is {TravelType}
+TravelIntentType I shall travel {TravelType}
+TravelIntentType I would like to travel {TravelType}
+TravelIntentType I may travel {TravelType}
+
+twoway I would like to travel on {TravelDate} and return on {ReturnDate}
+twoway I shall travel on {TravelDate} and return on {ReturnDate}
+twoway My stay is from {TravelDate} to {ReturnDate}
+twoway from {TravelDate} to {ReturnDate}
+twoway I need to travel on {TravelDate} and return on {ReturnDate}
+twoway from {TravelDate} to {ReturnDate}
+
+oneway My travel date is {TravelDate}
+oneway I would like to travel on {TravelDate}
+oneway I shall travel on {TravelDate}
+oneway I will be travelling on {TravelDate}
+oneway {TravelDate}
